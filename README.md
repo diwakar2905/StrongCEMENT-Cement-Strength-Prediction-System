@@ -1,5 +1,4 @@
-#🏗️ StrongCEMENT
-Predict Concrete Strength Instantly Using Machine Learning
+# 🏗️ StrongCEMENT-Predict Concrete Strength Instantly Using Machine Learning
 
 Welcome to StrongCEMENT – a user-friendly web app that helps you predict the compressive strength of concrete based on its mix composition. Whether you're a civil engineer, a student, or just curious about how machine learning can help with materials science, this project is for you!
 
